@@ -21,7 +21,7 @@ In this tutorial, we will be observing various network traffic to and from Azure
 
 <h2>Prerequisites </h2>
 
-- Create Windows 10 (21H2) amd Ubuntu Server 20.04 vitrual machine on Microsoft Azure
+- Create Windows 10 (21H2) and Ubuntu Server 20.04 vitrual machine on Microsoft Azure
 
 <h2>High-Level Steps</h2>
 
