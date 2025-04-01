@@ -1,5 +1,6 @@
 
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<![image](https://github.com/user-attachments/assets/7e283f2f-5787-4639-a16f-7cb02386d7fa) 
+>
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
