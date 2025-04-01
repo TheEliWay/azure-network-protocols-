@@ -34,8 +34,8 @@ In this tutorial, we will be observing various network traffic to and from Azure
 
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/jE4avGc.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/3a3f70df-c69a-4057-9250-98069d2209b8)
+
 </p>
 <p>
 <h3>Observe ICMP Traffic</h3>
