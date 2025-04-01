@@ -56,8 +56,8 @@ In this tutorial, we will be observing various network traffic to and from Azure
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/J0YnD3J.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/f6dd01dc-7fc4-4531-a33d-f51adafbc31c)
+
 </p>
 <p>
 <h3>Observe SSH Traffic</h3>
@@ -70,8 +70,8 @@ In this tutorial, we will be observing various network traffic to and from Azure
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/nCCPjVw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/4f85ed4b-182d-4357-8694-9f3d56480a25)
+
 </p>
 <p>
 <h3>Observe DHCP Traffic</h3>
@@ -83,8 +83,8 @@ In this tutorial, we will be observing various network traffic to and from Azure
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/bB8jYer.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/55ca3439-27a3-4154-b440-f9feb45302b5)
+
 </p>
 <p>
 <h3>Observe DNS Traffic</h3>
